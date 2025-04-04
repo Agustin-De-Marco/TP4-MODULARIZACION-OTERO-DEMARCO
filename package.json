@@ -1,0 +1,23 @@
+{
+  "name": "tp4",
+  "version": "1.0.0",
+  "description": "modularicazion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agustin-De-Marco/TP4-MODULARIZACION-OTERO-KANTER.git"
+  },
+  "author": "de marco otero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agustin-De-Marco/TP4-MODULARIZACION-OTERO-KANTER/issues"
+  },
+  "homepage": "https://github.com/Agustin-De-Marco/TP4-MODULARIZACION-OTERO-KANTER#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
