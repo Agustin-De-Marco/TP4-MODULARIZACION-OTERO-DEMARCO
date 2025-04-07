@@ -1,0 +1,3 @@
+Este es un archivo de prueba para el EJ04.
+Contiene varias líneas de texto.
+Fin del archivo.

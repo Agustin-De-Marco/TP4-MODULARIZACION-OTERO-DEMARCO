@@ -39,4 +39,4 @@ console.log("Ej6:", obj2);
 // EJ07
 
 let moneda = ej7("AR");
-console.log("Ej7:", moneda);
+console.log(moneda);
